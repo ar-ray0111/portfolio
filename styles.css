@@ -1,0 +1,13 @@
+@font-face {
+    font-family: radioCanada;
+    src: url(./resources/fonts/RadioCanada/RadioCanada-Bold.ttf);
+}
+body{
+    background-color: #53565a ;
+    color:#ffffff 
+}
+.hero{
+    font-family: radioCanada;
+    color:#ffffff ;
+
+}
